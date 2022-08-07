@@ -1,0 +1,21 @@
+{
+    "nombre": "Api Rest Express - Produccion",
+    "version": "1.0.0",
+    "autor": "Elias Colon",
+    "fecha": "2020-01-01",
+    "descripcion": "Api Rest Express",
+    "url": "https://api.github.com/repos/aliascolon98/api-rest-express",
+    "licencia": "MIT",
+    "keywords": [
+        "api",
+        "rest",
+        "express"
+    ],
+    "configBD": {
+        "host": "production-db-server",
+        "user": "root",
+        "password": "",
+        "database": "api-rest-express"
+    }
+
+}
